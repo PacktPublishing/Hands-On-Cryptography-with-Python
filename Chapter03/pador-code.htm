@@ -1,0 +1,33 @@
+from pador import encr, decr
+a = "This simple sentence is forty-seven bytes long."
+c = encr(a)
+print c.encode("hex")
+
+decr(c)
+
+mod = c[0:47] + chr(65)
+decr(mod)
+
+from pador import encr, decr
+
+prefix = c[0:16] + "A"*15
+for i in range(256):
+  mod = prefix + chr(i) + c[32:]
+  if decr(mod) != "PADDING ERROR":
+    print i, "is correctly padded"
+
+
+prefix = c[0:16] + "A"*14
+for i in range(256):
+  mod = prefix + chr(i) + chr(233) + c[32:]
+  if decr(mod) != "PADDING ERROR":
+    print i, "is correctly padded"
+
+
+
+prefix = c[0:16] + "A"*14
+c30 = ord("A") ^ 113c31 = 1 ^ 235mod = prefix + chr(c30) + chr(c31) + c[32:]
+decr(mod)
+
+
+
