@@ -1,22 +1,22 @@
 # Hands-On Cryptography with Python
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/hands-cryptography-python?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781789534443"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11735.png" alt="Hands-On Cryptography with Python" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Hands-On Cryptography with Python](https://www.packtpub.com/networking-and-servers/hands-cryptography-python), published by Packt.
 
 **Leverage the power of Python to encrypt and decrypt data**
 
 ## What is this book about?
-First Paragraph from the Long Description
+Cryptography is essential for protecting sensitive information, but it is often performed inadequately or incorrectly.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+This book covers the following exciting features:
+* Protect data with encryption and hashing
+* Explore and compare various encryption methods
+* Encrypt data using the Caesar Cipher technique
+* Make hashes and crack them
+* Learn how to use three NIST-recommended systems: AES, SHA, and RSA
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789534445) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
