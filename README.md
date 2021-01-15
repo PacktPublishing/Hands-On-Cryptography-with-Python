@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-cryptography-with-python/9781789534443)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789534445).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Cryptography with Python
 
 <a href="https://www.packtpub.com/networking-and-servers/hands-cryptography-python?utm_source=repository&utm_medium=github&utm_campaign=repository&utm_term=9781789534443"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11735.png" alt="Hands-On Cryptography with Python" height="256px" align="right"></a>
